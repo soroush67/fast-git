@@ -1,2 +1,0 @@
-# fast-git
-fast-git
